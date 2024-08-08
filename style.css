@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+}
+
+.overlay{
+    position: absolute;
+    top: 30%;
+    left: 20%;
+}
+
+.inner h3{
+    
+    font-size: 30px;
+    
+}
+.inner h5{
+    font-size: 15px;
+}
+
+.inner button{
+    background-color: rgb(233, 90, 38);
+}
+
+.row1{
+    background-color: rgb(244, 234, 236);
+    display: flex;
+    justify-content: center;
+}
+
+.col1{
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.row2{
+    background-color: rgb(244, 234, 236);
+}
+
+.row2 p{
+    text-decoration: underline orange;
+}
+
+.row3{
+    display: flex;
+    justify-content: center;
+}
+
+.row3 p{
+    text-decoration: none;
+    margin: 20px;
+}
+
+.row4{
+    display: flex;
+    justify-content: center;
+}
+
+.row4 p{
+    text-decoration: none;
+    margin: 20px;
+}
